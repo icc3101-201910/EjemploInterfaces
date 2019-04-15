@@ -20,6 +20,7 @@ namespace ConsoleApp13
 
         public void Pensar()
         {
+            // implementar
         }
 
         public void Programa()
